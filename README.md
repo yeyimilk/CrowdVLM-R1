@@ -31,22 +31,29 @@ You can train model with our dataset with this project directly. At the same tim
 
 ### Citation
 If you think our dataset and project is useful, please cite our paper:
-> @misc{wang2025crowdvlmr1expandingr1ability,
->      title={CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward}, 
->      author={Zhiqiang Wang and Pengbin Feng and Yanbin Lin and Shuzhang Cai and Zongao Bian and Jinghua Yan and Xingquan Zhu},
->      year={2025},
->      eprint={2504.03724},
->      archivePrefix={arXiv},
->      primaryClass={cs.CV},
->      url={https://arxiv.org/abs/2504.03724}, 
->}
+
+```bib
+@misc{wang2025crowdvlmr1expandingr1ability,
+      title={CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward}, 
+      author={Zhiqiang Wang and Pengbin Feng and Yanbin Lin and Shuzhang Cai and Zongao Bian and Jinghua Yan and Xingquan Zhu},
+      year={2025},
+      eprint={2504.03724},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.03724}, 
+}
+```
 
 
-And VLM-R1 paper:
-> @misc{shen2025vlmr1,
->    author       = {Shen, Haozhan and Zhang, Zilun and Zhang, Qianqian and Xu, Ruochen and Zhao, Tiancheng},
->    title        = {VLM-R1: A stable and generalizable R1-style Large Vision-Language Model},
->    howpublished = {\url{https://github.com/om-ai-lab/VLM-R1}},
->    note         = {Accessed: 2025-02-15},
->    year         = {2025}
->}
+And VLM-R1 project:
+
+
+```bib
+@misc{shen2025vlmr1,
+  author       = {Shen, Haozhan and Zhang, Zilun and Zhang, Qianqian and Xu, Ruochen and Zhao, Tiancheng},
+  title        = {VLM-R1: A stable and generalizable R1-style Large Vision-Language Model},
+  howpublished = {\url{https://github.com/om-ai-lab/VLM-R1}},
+  note         = {Accessed: 2025-02-15},
+  year         = {2025}
+}
+```
