@@ -14,6 +14,10 @@
 
 ### Dataset
 
+[Dataaset from HuggingFace, used in this project](https://huggingface.co/datasets/yeyimilk/CrowdVLM-R1-data)
+
+[Bigger Dataaset from HuggingFace](https://huggingface.co/datasets/yeyimilk/CrowdVLM-R1-BiggerDS)
+
 [Dataset from Google Drive](https://drive.google.com/file/d/1vPNnTv_PFLeDXyFJzWhqtlHfxKW3juIO/view?usp=sharing)
 
 We have a bigger dataset version with more training images while keeping the testing images the same, if you like to have it, feel free to contact me.
